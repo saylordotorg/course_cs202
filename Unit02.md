@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Logic of Quantified Statements** <span id="2"></span> 
 *In the previous unit, we discussed the logical analysis of compound
 statements, including those comprised of simple statements joined by OR,

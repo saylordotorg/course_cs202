@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Logic of Compound Statements** <span id="1"></span> 
 *Great thinkers have studied logic since the time of the Greek
 philosopher Aristotle; its rules serve as the basis for the study of

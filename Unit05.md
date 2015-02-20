@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Set Theory** <span id="5"></span> 
 *Computer scientists often find themselves working with sets of
 homogeneous or heterogeneous values. Scientists have devised set theory

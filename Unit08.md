@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Graphs and Trees** <span id="8"></span> 
 *Graphs serve innumerable functions: they can represent communications
 systems, chart knowledge, and even solve problems. In this unit, we will

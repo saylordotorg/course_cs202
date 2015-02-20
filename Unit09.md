@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Regular Expressions and Finite-State Automata** <span
 id="9"></span> 
 *Computer language compilers frequently use regular languages (which

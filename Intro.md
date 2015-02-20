@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS202: Discrete Structures"
 ------------------------------------------------
 

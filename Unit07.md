@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS202: Discrete Structures"
+course_description: "An introduction to the mathematical foundations from discrete mathematics that are used for analyzing computer algorithms for correctness and performance. This course introduces models of computation, including finite state machines and Turing machines."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Recursion** <span id="7"></span> 
 *In previous sections, we learned about sequences in a general sense. In
 this unit, we will take a look at a specific type known as a recursive
